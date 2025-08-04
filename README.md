@@ -34,13 +34,15 @@ This project aims to predict restaurant ratings based on various factors like lo
 ---
 
 
+
 ## 📊 Sample Visualizations
 
-### 📈 Model Comparison
-![Model Comparison](https://github.com/yourusername/your-repo-name/blob/main/Screenshot%20(177).png?raw=true)
+### 📈 Model Comparison (R² Score & RMSE)
+![Model Comparison](https://github.com/alwinhemanth/restaurant-rating-prediction/blob/main/Screenshot%20(177).png?raw=true)
 
-### 🌟 Feature Importance
-![Feature Importance](https://github.com/yourusername/your-repo-name/blob/main/Screenshot%20(178).png?raw=true)
+### 🌟 Feature Importance from Random Forest
+![Feature Importance](https://github.com/alwinhemanth/restaurant-rating-prediction/blob/main/Screenshot%20(178).png?raw=true)
+
 
 
 
