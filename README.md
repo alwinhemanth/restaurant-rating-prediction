@@ -1,40 +1,27 @@
 # 🍽️ Restaurant Rating Prediction Using Machine Learning
 
-This project aims to predict restaurant ratings based on various factors like location, cuisine, cost, and other attributes. Using data preprocessing, exploratory data analysis, and machine learning models, the project estimates the expected rating of a restaurant.
+Predicting restaurant ratings based on factors like location, cuisine, votes, and service availability using regression models.
 
 ---
 
 ## 📌 Project Overview
 
-- 🔍 **Goal**: Predict the ratings of restaurants using structured data.
-- 📊 **Dataset**: Real-world restaurant dataset (e.g., from Zomato or similar platforms).
-- 🛠️ **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+- 🔍 **Goal**: Predict restaurant ratings using structured data features.
+- 📊 **Dataset**: Real-world restaurant data (CSV).
+- 🧠 **Models Used**: Linear Regression, Decision Tree, Random Forest.
+- 🔧 **Tools**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
 
 ---
 
-## 🧰 Technologies Used
+## 🚀 Key Features
 
-- **Python** 🐍
-- **Pandas & NumPy** – Data handling & manipulation
-- **Matplotlib & Seaborn** – Data visualization
-- **Scikit-learn** – Machine learning models
-- **Jupyter Notebook** – Development environment
-
----
-
-## 🔍 Key Features
-
-- Data Cleaning: Removed duplicates, handled missing values, standardized categories.
-- Feature Engineering: Encoded categorical variables and removed irrelevant features.
-- Exploratory Data Analysis (EDA): Visualized cuisine types, price ranges, and rating distributions.
-- Model Building: Trained Linear Regression, Decision Tree, and Random Forest models.
-- Model Evaluation: Compared models using R² Score and RMSE.
-- Hyperparameter Tuning: Used GridSearchCV to optimize model performance.
+- 🧹 **Data Cleaning**: Removed duplicates, handled missing values, standardized categories.
+- 🏗️ **Feature Engineering**: Encoded categorical variables and removed irrelevant features.
+- 📊 **EDA**: Visualized cuisine types, price ranges, and rating distributions.
+- 🤖 **Modeling**: Trained and compared regression models using R² Score and RMSE.
+- 🔍 **Hyperparameter Tuning**: Used GridSearchCV to optimize Random Forest model.
 
 ---
-
-
-
 
 ## 📊 Sample Visualizations
 
@@ -44,8 +31,7 @@ This project aims to predict restaurant ratings based on various factors like lo
 ### 🌟 Feature Importance from Random Forest
 ![Feature Importance](https://github.com/alwinhemanth/restaurant-rating-prediction/blob/main/Screenshot%20(178).png?raw=true)
 
-
 ---
 
-## 🗂️ Project Structure
+## 📂 Project Structure
 
