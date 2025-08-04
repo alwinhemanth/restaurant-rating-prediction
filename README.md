@@ -33,9 +33,15 @@ This project aims to predict restaurant ratings based on various factors like lo
 
 ---
 
+
 ## 📊 Sample Visualizations
 
-*(Add screenshots here if available)*
+### 📈 Model Comparison (R² Score & RMSE)
+![Model Comparison](images/screenshot-model-comparison.png)
+
+### 🌟 Feature Importance from Random Forest
+![Feature Importance](images/screenshot-feature-importance.png)
+
 
 ---
 
