@@ -33,5 +33,15 @@ Predicting restaurant ratings based on factors like location, cuisine, votes, an
 
 ---
 
+## 📈 Model Results
+
+| Model             | R² Score  | RMSE     |
+|------------------|-----------|----------|
+| Linear Regression| 0.26      | 1.29     |
+| Decision Tree    | 0.89      | 0.48     |
+| Random Forest    | **0.94**  | **0.35** |
+
+✅ **Random Forest performed best** with high accuracy and low error.
+
 ## 📂 Project Structure
 
